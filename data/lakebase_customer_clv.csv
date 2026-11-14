@@ -1,0 +1,301 @@
+customer_id,customer_name,email_address,country,continent,gender,clv_tier,purchase_count,lifetime_value,avg_order_value,days_since_last_purchase,synced_at
+2000000,Jimmy Cross,ejacobson@example.net,USA,North America,female,Medium,9,201.0,22.33,913,2026-11-14T16:50:49Z
+2000001,Beth Park,juliaflores@example.com,Japan,Asia,female,Low,8,153.0,19.13,912,2026-11-14T16:50:49Z
+2000002,Amber Kirk,william99@example.net,USA,North America,female,High,17,327.0,19.24,912,2026-11-14T16:50:49Z
+2000003,Charles Parsons,hillkyle@example.com,Australia,Oceania,male,Medium,13,216.0,16.62,911,2026-11-14T16:50:49Z
+2000004,Charles Gonzalez,jessica67@example.net,USA,North America,male,High,17,363.0,21.35,911,2026-11-14T16:50:49Z
+2000005,Jared Johnson,amy67@example.net,Australia,Oceania,female,High,21,330.0,15.71,912,2026-11-14T16:50:49Z
+2000006,Christopher Miller,johnyates@example.net,Japan,Asia,female,High,18,480.0,26.67,911,2026-11-14T16:50:49Z
+2000007,Christopher Garcia,zhangjohn@example.com,Australia,Oceania,male,High,13,366.0,28.15,911,2026-11-14T16:50:49Z
+2000008,Omar Zamora,amandacooper@example.net,USA,North America,female,Medium,10,174.0,17.4,911,2026-11-14T16:50:49Z
+2000009,Jacob Lane,richard55@example.net,Australia,Oceania,female,Medium,9,156.0,17.33,911,2026-11-14T16:50:49Z
+2000010,Virginia Villegas,tara36@example.org,USA,North America,male,High,16,336.0,21.0,911,2026-11-14T16:50:49Z
+2000011,Matthew Vega,ahurley@example.org,Japan,Asia,male,Low,6,99.0,16.5,912,2026-11-14T16:50:49Z
+2000012,Wendy Lawrence,reyesanne@example.net,Australia,Oceania,male,Medium,9,222.0,24.67,917,2026-11-14T16:50:49Z
+2000013,Brian Lewis,ojordan@example.net,Japan,Asia,female,Medium,11,159.0,14.45,913,2026-11-14T16:50:49Z
+2000014,Katherine Castillo,jessicabrewer@example.com,Australia,Oceania,female,Medium,13,231.0,17.77,914,2026-11-14T16:50:49Z
+2000015,Mitchell Coleman,richard85@example.net,Japan,Asia,female,Medium,12,201.0,16.75,914,2026-11-14T16:50:49Z
+2000016,Curtis Crawford,evansstephanie@example.net,USA,North America,female,Medium,13,207.0,15.92,912,2026-11-14T16:50:49Z
+2000017,John Hammond,joseph67@example.net,Australia,Oceania,female,Medium,12,168.0,14.0,914,2026-11-14T16:50:49Z
+2000018,Amanda Davis,samuel09@example.net,Australia,Oceania,female,Low,11,132.0,12.0,915,2026-11-14T16:50:49Z
+2000019,Susan Phillips,cody96@example.net,Japan,Asia,male,High,19,318.0,16.74,915,2026-11-14T16:50:49Z
+2000020,Ian Jones,williamsangela@example.org,USA,North America,male,Medium,13,177.0,13.62,912,2026-11-14T16:50:49Z
+2000021,Jacob Mcdaniel,allenpeter@example.net,Japan,Asia,female,High,18,300.0,16.67,912,2026-11-14T16:50:49Z
+2000022,Peter Hill,gspencer@example.com,USA,North America,female,High,18,411.0,22.83,913,2026-11-14T16:50:49Z
+2000023,Tyler Miller,brownryan@example.org,Australia,Oceania,female,High,14,390.0,27.86,914,2026-11-14T16:50:49Z
+2000024,Ashley Barnes,ewilson@example.org,Australia,Oceania,female,Low,9,144.0,16.0,912,2026-11-14T16:50:49Z
+2000025,Mark White,yking@example.net,USA,North America,male,Medium,11,156.0,14.18,911,2026-11-14T16:50:49Z
+2000026,Jeffrey Jones,andrew38@example.org,USA,North America,male,Medium,10,210.0,21.0,911,2026-11-14T16:50:49Z
+2000027,Nathan Lester,daniel68@example.org,Australia,Oceania,female,Low,8,123.0,15.38,914,2026-11-14T16:50:49Z
+2000028,Patrick Nolan,ubrown@example.net,Japan,Asia,female,Medium,9,204.0,22.67,911,2026-11-14T16:50:49Z
+2000029,Jennifer Roth,donna88@example.org,Australia,Oceania,female,High,22,414.0,18.82,912,2026-11-14T16:50:49Z
+2000030,Jennifer Martinez,perkinsmegan@example.com,Australia,Oceania,female,High,16,321.0,20.06,912,2026-11-14T16:50:49Z
+2000031,Samuel Haynes,xbowman@example.org,USA,North America,male,Medium,8,183.0,22.88,911,2026-11-14T16:50:49Z
+2000032,Eric Torres,cameron10@example.com,Japan,Asia,male,High,12,309.0,25.75,913,2026-11-14T16:50:49Z
+2000033,James Padilla,frankevan@example.com,Australia,Oceania,male,High,13,282.0,21.69,911,2026-11-14T16:50:49Z
+2000034,Ariel Miller,sbowers@example.org,Australia,Oceania,male,Low,10,153.0,15.3,911,2026-11-14T16:50:49Z
+2000035,Mark Hawkins,dbooth@example.net,USA,North America,female,Medium,11,204.0,18.55,911,2026-11-14T16:50:49Z
+2000036,Angela Reed,ortizchristina@example.net,Australia,Oceania,female,Low,6,111.0,18.5,912,2026-11-14T16:50:49Z
+2000037,Cynthia Vega,mitchellcolleen@example.net,Japan,Asia,male,Low,7,138.0,19.71,911,2026-11-14T16:50:49Z
+2000038,Gregory Flores,plucas@example.org,USA,North America,female,High,9,306.0,34.0,912,2026-11-14T16:50:49Z
+2000039,Kyle Jennings,wallacechristopher@example.net,USA,North America,male,Medium,12,174.0,14.5,912,2026-11-14T16:50:49Z
+2000040,Jesse Mcmillan,ashleyguerra@example.net,Japan,Asia,male,Medium,13,240.0,18.46,912,2026-11-14T16:50:49Z
+2000041,Kathleen Rogers,walkerjoshua@example.org,Japan,Asia,female,Low,8,132.0,16.5,911,2026-11-14T16:50:49Z
+2000042,Richard Smith,wdavidson@example.net,Australia,Oceania,male,Medium,8,255.0,31.88,921,2026-11-14T16:50:49Z
+2000043,Kelly Adams,denisewilliams@example.net,USA,North America,female,Low,8,120.0,15.0,914,2026-11-14T16:50:49Z
+2000044,James Snow,willie41@example.com,USA,North America,male,Low,8,132.0,16.5,912,2026-11-14T16:50:49Z
+2000045,Heidi Conrad,lawrencedavis@example.org,USA,North America,male,Medium,9,264.0,29.33,915,2026-11-14T16:50:49Z
+2000046,Darren Howard,jonescarolyn@example.net,Australia,Oceania,male,Low,8,96.0,12.0,912,2026-11-14T16:50:49Z
+2000047,Andrea Sanchez,johnjackson@example.net,USA,North America,male,Low,5,60.0,12.0,911,2026-11-14T16:50:49Z
+2000048,Elizabeth Watkins,williamsruth@example.net,Japan,Asia,male,Low,3,42.0,14.0,912,2026-11-14T16:50:49Z
+2000049,Melissa Peters,ebrooks@example.org,Australia,Oceania,female,Medium,13,204.0,15.69,913,2026-11-14T16:50:49Z
+2000050,Justin Rowe,michael64@example.com,USA,North America,female,Low,7,99.0,14.14,913,2026-11-14T16:50:49Z
+2000051,Michael Crawford,lauriejackson@example.org,Japan,Asia,female,Medium,8,177.0,22.13,912,2026-11-14T16:50:49Z
+2000052,Brian Thompson,taylor74@example.org,Japan,Asia,female,Medium,16,189.0,11.81,912,2026-11-14T16:50:49Z
+2000053,Phillip Lynch,hoconnor@example.net,Australia,Oceania,male,Medium,14,270.0,19.29,913,2026-11-14T16:50:49Z
+2000054,Mark Spencer,hklein@example.org,Japan,Asia,male,Medium,10,228.0,22.8,914,2026-11-14T16:50:49Z
+2000055,Jessica Armstrong,ujohnson@example.com,USA,North America,male,Medium,14,270.0,19.29,912,2026-11-14T16:50:49Z
+2000056,Oscar Goodwin,qmaddox@example.net,Japan,Asia,male,Medium,12,189.0,15.75,912,2026-11-14T16:50:49Z
+2000057,Kelly Davis,timothy20@example.net,Japan,Asia,male,High,13,405.0,31.15,912,2026-11-14T16:50:49Z
+2000058,James Sanchez,conniedoyle@example.com,Australia,Oceania,female,Low,10,138.0,13.8,913,2026-11-14T16:50:49Z
+2000059,Dakota Robertson,stacymeyer@example.org,USA,North America,male,Medium,6,183.0,30.5,912,2026-11-14T16:50:49Z
+2000060,Sean Ramirez,kellysullivan@example.com,Australia,Oceania,female,Low,7,147.0,21.0,916,2026-11-14T16:50:49Z
+2000061,Darin Campbell,misty73@example.com,Japan,Asia,male,High,16,336.0,21.0,912,2026-11-14T16:50:49Z
+2000062,Megan Sherman,fgarcia@example.org,Japan,Asia,male,Medium,12,267.0,22.25,911,2026-11-14T16:50:49Z
+2000063,Shane Green,reneevillanueva@example.net,Japan,Asia,female,Medium,7,165.0,23.57,911,2026-11-14T16:50:49Z
+2000064,Amanda Murray,leenatalie@example.net,Japan,Asia,male,High,12,315.0,26.25,911,2026-11-14T16:50:49Z
+2000065,Matthew Acosta,washingtonshannon@example.org,USA,North America,female,Medium,16,258.0,16.13,912,2026-11-14T16:50:49Z
+2000066,Nancy Clarke,tiffanycurtis@example.com,USA,North America,female,Medium,16,222.0,13.88,912,2026-11-14T16:50:49Z
+2000067,Christopher Williams,cgraham@example.net,Australia,Oceania,male,High,12,414.0,34.5,914,2026-11-14T16:50:49Z
+2000068,Jesse Clark,watsonrobert@example.com,Australia,Oceania,male,Low,9,141.0,15.67,913,2026-11-14T16:50:49Z
+2000069,Michelle Chen,ashleyanderson@example.com,USA,North America,female,Medium,10,174.0,17.4,911,2026-11-14T16:50:49Z
+2000070,Martin Marshall,charles59@example.net,Australia,Oceania,male,Medium,12,168.0,14.0,913,2026-11-14T16:50:49Z
+2000071,Mary Mason,reevesjoshua@example.com,Australia,Oceania,female,Low,9,120.0,13.33,912,2026-11-14T16:50:49Z
+2000072,Robert Santiago,qruiz@example.org,USA,North America,female,Medium,10,168.0,16.8,913,2026-11-14T16:50:49Z
+2000073,Tracy Higgins,scotttammy@example.com,USA,North America,male,High,9,279.0,31.0,911,2026-11-14T16:50:49Z
+2000074,Brittany Ochoa,wdavis@example.org,Japan,Asia,male,High,16,360.0,22.5,911,2026-11-14T16:50:49Z
+2000075,John Russell,vjimenez@example.net,USA,North America,male,High,13,378.0,29.08,913,2026-11-14T16:50:49Z
+2000076,Louis Rodriguez,michellemorris@example.com,Australia,Oceania,male,Medium,13,189.0,14.54,918,2026-11-14T16:50:49Z
+2000077,Jacob Wiley,bethgoodman@example.com,Australia,Oceania,male,Medium,8,177.0,22.13,915,2026-11-14T16:50:49Z
+2000078,Stephen Miles,danielblanchard@example.net,Japan,Asia,male,Medium,9,171.0,19.0,913,2026-11-14T16:50:49Z
+2000079,James Mercer,jprice@example.com,USA,North America,male,High,13,285.0,21.92,911,2026-11-14T16:50:49Z
+2000080,Brittany Fletcher,zperez@example.net,Australia,Oceania,male,Medium,12,189.0,15.75,912,2026-11-14T16:50:49Z
+2000081,Cynthia Jones,shafferbrandon@example.org,Japan,Asia,female,Low,7,57.0,8.14,912,2026-11-14T16:50:49Z
+2000082,Dawn Woods,lkim@example.com,Japan,Asia,female,High,14,423.0,30.21,912,2026-11-14T16:50:49Z
+2000083,Michael Bruce,heather29@example.net,USA,North America,male,High,15,291.0,19.4,913,2026-11-14T16:50:49Z
+2000084,Donald Perez,gregoryvictoria@example.net,Japan,Asia,male,High,14,327.0,23.36,913,2026-11-14T16:50:49Z
+2000085,Jeff Camacho,harringtonjohn@example.org,Australia,Oceania,female,Medium,9,165.0,18.33,916,2026-11-14T16:50:49Z
+2000086,Danielle Lopez,laurabonilla@example.net,USA,North America,male,Low,12,153.0,12.75,911,2026-11-14T16:50:49Z
+2000087,Steven Gonzalez,christopher75@example.com,Australia,Oceania,female,Low,4,54.0,13.5,912,2026-11-14T16:50:49Z
+2000088,Shannon Simmons,fowlerlisa@example.com,Australia,Oceania,male,Medium,9,174.0,19.33,911,2026-11-14T16:50:49Z
+2000089,Ashley Garcia,yware@example.com,USA,North America,male,Medium,9,234.0,26.0,913,2026-11-14T16:50:49Z
+2000090,Susan Holmes,brooksjohn@example.com,USA,North America,female,Medium,15,252.0,16.8,911,2026-11-14T16:50:49Z
+2000091,Melissa Thomas,patrickblevins@example.net,Australia,Oceania,male,Medium,15,246.0,16.4,911,2026-11-14T16:50:49Z
+2000092,Katie Brown,nathaniellowe@example.org,Australia,Oceania,female,Medium,10,219.0,21.9,914,2026-11-14T16:50:49Z
+2000093,Erika Briggs,sherylbennett@example.com,Australia,Oceania,female,Low,7,147.0,21.0,917,2026-11-14T16:50:49Z
+2000094,Diana Brown,bgriffin@example.com,USA,North America,female,Medium,15,231.0,15.4,911,2026-11-14T16:50:49Z
+2000095,Randy Molina,ricelaura@example.org,Australia,Oceania,female,High,11,354.0,32.18,911,2026-11-14T16:50:49Z
+2000096,Joseph Lutz,robbinskayla@example.net,Japan,Asia,female,Low,3,75.0,25.0,913,2026-11-14T16:50:49Z
+2000097,Robin Mcclure,douglas89@example.com,Australia,Oceania,male,Medium,13,249.0,19.15,912,2026-11-14T16:50:49Z
+2000098,Michelle Kramer,sgarcia@example.com,USA,North America,female,Medium,12,165.0,13.75,912,2026-11-14T16:50:49Z
+2000099,Amy Carr,jamesevans@example.com,Australia,Oceania,male,High,14,321.0,22.93,912,2026-11-14T16:50:49Z
+2000100,Brenda Becker,shenderson@example.com,Australia,Oceania,male,Low,11,147.0,13.36,914,2026-11-14T16:50:49Z
+2000101,Ryan Johnson,robert09@example.net,Japan,Asia,male,Medium,10,177.0,17.7,912,2026-11-14T16:50:49Z
+2000102,Alexander Becker,pachecorachael@example.net,USA,North America,female,Medium,10,243.0,24.3,913,2026-11-14T16:50:49Z
+2000103,Erika Arnold,zmckee@example.net,Japan,Asia,female,Low,6,66.0,11.0,913,2026-11-14T16:50:49Z
+2000104,Jennifer Wilson,vramirez@example.net,Japan,Asia,female,High,10,318.0,31.8,912,2026-11-14T16:50:49Z
+2000105,Colleen Singleton,jkelly@example.net,Japan,Asia,male,Low,11,144.0,13.09,911,2026-11-14T16:50:49Z
+2000106,Whitney Miller,ktran@example.com,Australia,Oceania,male,Medium,14,258.0,18.43,912,2026-11-14T16:50:49Z
+2000107,Alyssa Hansen,qpearson@example.com,USA,North America,male,Medium,9,240.0,26.67,912,2026-11-14T16:50:49Z
+2000108,Thomas Gilmore,joanna59@example.net,Japan,Asia,male,High,15,342.0,22.8,912,2026-11-14T16:50:49Z
+2000109,Yesenia Munoz,andrew44@example.org,Australia,Oceania,female,Medium,15,201.0,13.4,912,2026-11-14T16:50:49Z
+2000110,Amanda Davis,tim98@example.com,Australia,Oceania,female,Low,7,126.0,18.0,912,2026-11-14T16:50:49Z
+2000111,Kevin Bowen,adam15@example.com,Australia,Oceania,female,High,9,348.0,38.67,913,2026-11-14T16:50:49Z
+2000112,Lorraine James,floreskayla@example.net,Australia,Oceania,female,High,20,672.0,33.6,912,2026-11-14T16:50:49Z
+2000113,Brian Miller,smithderek@example.net,USA,North America,male,Medium,11,177.0,16.09,913,2026-11-14T16:50:49Z
+2000114,Benjamin Edwards,mknapp@example.org,Japan,Asia,female,Medium,12,174.0,14.5,911,2026-11-14T16:50:49Z
+2000115,Barry Taylor,george89@example.org,Australia,Oceania,female,Medium,10,162.0,16.2,919,2026-11-14T16:50:49Z
+2000116,Lindsey Garcia,xgreen@example.org,USA,North America,female,Medium,8,234.0,29.25,911,2026-11-14T16:50:49Z
+2000117,Thomas Gibson,holmeselizabeth@example.com,USA,North America,female,Medium,13,156.0,12.0,913,2026-11-14T16:50:49Z
+2000118,Todd Wilson,loganbarnes@example.com,USA,North America,female,High,15,297.0,19.8,912,2026-11-14T16:50:49Z
+2000119,Tiffany Bowman,elizabeth04@example.com,USA,North America,male,Low,7,114.0,16.29,915,2026-11-14T16:50:49Z
+2000120,Ashley Turner,xzhang@example.com,Japan,Asia,female,High,12,354.0,29.5,912,2026-11-14T16:50:49Z
+2000121,Tamara Hughes,robertdixon@example.org,USA,North America,female,Medium,14,207.0,14.79,911,2026-11-14T16:50:49Z
+2000122,Tina Cruz,cfoster@example.net,USA,North America,male,Medium,7,195.0,27.86,914,2026-11-14T16:50:49Z
+2000123,Richard Mullins,schmidtjames@example.org,Australia,Oceania,male,Medium,10,222.0,22.2,913,2026-11-14T16:50:49Z
+2000124,Natalie Garcia,chadcollins@example.org,Japan,Asia,female,Low,6,93.0,15.5,912,2026-11-14T16:50:49Z
+2000125,Nicole Williams,elijah33@example.com,Japan,Asia,male,Low,10,135.0,13.5,912,2026-11-14T16:50:49Z
+2000126,Brendan Garcia,jbrooks@example.com,USA,North America,male,Low,9,141.0,15.67,913,2026-11-14T16:50:49Z
+2000127,Ashley Chavez,margaret27@example.org,Japan,Asia,male,Medium,13,207.0,15.92,912,2026-11-14T16:50:49Z
+2000128,David Ritter,webermelanie@example.org,Australia,Oceania,female,High,17,330.0,19.41,912,2026-11-14T16:50:49Z
+2000129,Brianna Martin,slin@example.org,Japan,Asia,male,Low,8,132.0,16.5,912,2026-11-14T16:50:49Z
+2000130,Lori Smith,anthony64@example.net,Australia,Oceania,female,Medium,11,156.0,14.18,913,2026-11-14T16:50:49Z
+2000131,Kimberly Simmons,jacqueline34@example.org,USA,North America,female,Medium,13,249.0,19.15,913,2026-11-14T16:50:49Z
+2000132,Shelly Johnson,roberta21@example.com,Australia,Oceania,male,High,13,279.0,21.46,913,2026-11-14T16:50:49Z
+2000133,Leslie Miller,qroberts@example.com,USA,North America,female,Medium,10,192.0,19.2,912,2026-11-14T16:50:49Z
+2000134,Charles Wong,mcrawford@example.org,Japan,Asia,female,High,12,519.0,43.25,913,2026-11-14T16:50:49Z
+2000135,Brian Mercado,hmcintyre@example.com,Australia,Oceania,male,Medium,9,177.0,19.67,914,2026-11-14T16:50:49Z
+2000136,Thomas Manning,tvaughan@example.org,USA,North America,male,Medium,12,276.0,23.0,912,2026-11-14T16:50:49Z
+2000137,Mikayla Ho,jaredpace@example.org,Australia,Oceania,female,High,16,285.0,17.81,911,2026-11-14T16:50:49Z
+2000138,Shawna Banks,devans@example.net,Japan,Asia,female,Low,7,132.0,18.86,911,2026-11-14T16:50:49Z
+2000139,William Wagner,brownbrian@example.net,USA,North America,female,Medium,9,258.0,28.67,914,2026-11-14T16:50:49Z
+2000140,Eric Stephenson,christopher75@example.net,USA,North America,male,Low,10,153.0,15.3,912,2026-11-14T16:50:49Z
+2000141,Danny Roberts,bestbailey@example.org,Australia,Oceania,male,High,12,309.0,25.75,916,2026-11-14T16:50:49Z
+2000142,Harry Allen,mnewman@example.com,USA,North America,female,Medium,12,162.0,13.5,912,2026-11-14T16:50:49Z
+2000143,Amy Christian,catherine87@example.com,USA,North America,female,Low,9,117.0,13.0,913,2026-11-14T16:50:49Z
+2000144,Wesley Jordan,ryan71@example.com,Australia,Oceania,female,Low,8,78.0,9.75,911,2026-11-14T16:50:49Z
+2000145,Ann Bullock,jeremyfischer@example.net,Australia,Oceania,female,Medium,9,162.0,18.0,912,2026-11-14T16:50:49Z
+2000146,Dustin Meyers,maryschmitt@example.net,Japan,Asia,female,Medium,7,228.0,32.57,915,2026-11-14T16:50:49Z
+2000147,Kimberly Oconnell,nwelch@example.com,Australia,Oceania,male,Medium,10,171.0,17.1,912,2026-11-14T16:50:49Z
+2000148,Douglas Barnes,lopezelizabeth@example.com,Japan,Asia,male,Medium,10,198.0,19.8,912,2026-11-14T16:50:49Z
+2000149,Makayla Walsh,moorepatrick@example.org,USA,North America,male,Medium,12,234.0,19.5,912,2026-11-14T16:50:49Z
+2000150,Bryan Jackson,christinacervantes@example.net,Australia,Oceania,female,High,9,291.0,32.33,914,2026-11-14T16:50:49Z
+2000151,Eric Kennedy,ysloan@example.com,USA,North America,female,Low,13,153.0,11.77,912,2026-11-14T16:50:49Z
+2000152,Jeffery Whitney,erios@example.net,Australia,Oceania,male,Medium,8,162.0,20.25,912,2026-11-14T16:50:49Z
+2000153,Shelby Pratt,ojohnston@example.com,Australia,Oceania,male,Low,9,147.0,16.33,912,2026-11-14T16:50:49Z
+2000154,Meredith Wilson,johnny60@example.org,Japan,Asia,male,Medium,11,204.0,18.55,914,2026-11-14T16:50:49Z
+2000155,Jessica Green,roachadam@example.com,Japan,Asia,male,High,13,291.0,22.38,914,2026-11-14T16:50:49Z
+2000156,Megan Horton,danielcoleman@example.com,USA,North America,female,High,17,279.0,16.41,912,2026-11-14T16:50:49Z
+2000157,Laura Morris,wgray@example.net,Japan,Asia,male,Medium,11,198.0,18.0,912,2026-11-14T16:50:49Z
+2000158,Diana Moore,mariomcgrath@example.net,Japan,Asia,female,High,13,288.0,22.15,912,2026-11-14T16:50:49Z
+2000159,Hector Mcfarland,sean09@example.net,Japan,Asia,female,Medium,13,252.0,19.38,914,2026-11-14T16:50:49Z
+2000160,Kristin Brown,tinawoods@example.com,Japan,Asia,male,Medium,13,267.0,20.54,911,2026-11-14T16:50:49Z
+2000161,Joanne Hernandez,gary84@example.org,Australia,Oceania,male,Medium,10,165.0,16.5,911,2026-11-14T16:50:49Z
+2000162,Jeffrey Goodwin,josephmichael@example.org,Japan,Asia,female,Medium,13,261.0,20.08,914,2026-11-14T16:50:49Z
+2000163,Alisha Johnson,mlivingston@example.com,Australia,Oceania,female,Medium,13,204.0,15.69,913,2026-11-14T16:50:49Z
+2000164,Nicole Underwood,phillip72@example.org,Japan,Asia,male,Low,5,132.0,26.4,913,2026-11-14T16:50:49Z
+2000165,Lauren Moore,carrie05@example.com,Australia,Oceania,female,Low,8,141.0,17.63,911,2026-11-14T16:50:49Z
+2000166,Matthew Ramos,josephbrittany@example.org,USA,North America,female,Medium,12,189.0,15.75,911,2026-11-14T16:50:49Z
+2000167,Dennis Chapman,julie30@example.org,Japan,Asia,female,Medium,12,213.0,17.75,912,2026-11-14T16:50:49Z
+2000168,Bridget Downs,daniel33@example.net,USA,North America,female,Low,8,126.0,15.75,912,2026-11-14T16:50:49Z
+2000169,Candace Reyes,brian04@example.net,Australia,Oceania,male,Medium,12,231.0,19.25,912,2026-11-14T16:50:49Z
+2000170,Allison Mitchell,mariafarmer@example.org,Japan,Asia,male,High,14,312.0,22.29,911,2026-11-14T16:50:49Z
+2000171,Lauren Blake,thomasjones@example.net,Japan,Asia,female,Medium,11,213.0,19.36,913,2026-11-14T16:50:49Z
+2000172,Kimberly Smith,jamesrichardson@example.net,USA,North America,male,High,13,360.0,27.69,912,2026-11-14T16:50:49Z
+2000173,Jessica Fisher,rickythomas@example.com,Australia,Oceania,female,High,16,438.0,27.38,911,2026-11-14T16:50:49Z
+2000174,Andrew Cole,johnsonpaul@example.com,USA,North America,female,Low,8,114.0,14.25,913,2026-11-14T16:50:49Z
+2000175,Donna Watkins,reneemiller@example.com,USA,North America,male,Medium,8,204.0,25.5,914,2026-11-14T16:50:49Z
+2000176,Matthew Hayes,carriemoore@example.com,USA,North America,female,Medium,8,243.0,30.38,915,2026-11-14T16:50:49Z
+2000177,Jennifer Taylor,godom@example.org,Japan,Asia,male,Medium,12,198.0,16.5,911,2026-11-14T16:50:49Z
+2000178,Tracy Montoya,szamora@example.net,Australia,Oceania,male,High,12,300.0,25.0,911,2026-11-14T16:50:49Z
+2000179,Eugene Powers,jmoore@example.net,Australia,Oceania,male,High,11,450.0,40.91,912,2026-11-14T16:50:49Z
+2000180,Janet Pierce,jimmy07@example.org,Australia,Oceania,female,Low,5,57.0,11.4,913,2026-11-14T16:50:49Z
+2000181,Elizabeth Smith,jacquelinecook@example.net,Australia,Oceania,female,High,12,300.0,25.0,913,2026-11-14T16:50:49Z
+2000182,Noah Patel,petersonnicholas@example.net,Japan,Asia,female,Medium,11,198.0,18.0,911,2026-11-14T16:50:49Z
+2000183,Lee Stanton,normanpatrick@example.org,USA,North America,male,Medium,10,192.0,19.2,915,2026-11-14T16:50:49Z
+2000184,Jeffrey Williams,ericwilliams@example.net,Australia,Oceania,male,Medium,10,162.0,16.2,912,2026-11-14T16:50:49Z
+2000185,Dawn Medina,smithchristine@example.com,Australia,Oceania,female,Low,7,108.0,15.43,912,2026-11-14T16:50:49Z
+2000186,Erin Brown,awhite@example.net,Japan,Asia,male,High,15,282.0,18.8,911,2026-11-14T16:50:49Z
+2000187,Sue Mejia,taylorreyes@example.org,USA,North America,female,Medium,12,165.0,13.75,913,2026-11-14T16:50:49Z
+2000188,Dana Butler,andreaburns@example.net,Japan,Asia,male,Low,10,147.0,14.7,911,2026-11-14T16:50:49Z
+2000189,Scott Andrews,gary98@example.com,Australia,Oceania,male,Medium,16,270.0,16.88,912,2026-11-14T16:50:49Z
+2000190,Elaine Jacobs,xdickerson@example.org,Japan,Asia,male,Medium,11,198.0,18.0,912,2026-11-14T16:50:49Z
+2000191,Rebecca Archer,shelley23@example.org,Japan,Asia,female,High,14,279.0,19.93,911,2026-11-14T16:50:49Z
+2000192,Adrian Johnson,michealgonzales@example.com,Australia,Oceania,female,Low,8,144.0,18.0,913,2026-11-14T16:50:49Z
+2000193,Sean Jordan,mosleyjeremiah@example.org,Japan,Asia,female,High,14,333.0,23.79,911,2026-11-14T16:50:49Z
+2000194,Sara Blake,brandon57@example.org,USA,North America,male,Medium,11,177.0,16.09,911,2026-11-14T16:50:49Z
+2000195,Joshua Peterson,brian71@example.net,Australia,Oceania,female,Medium,11,267.0,24.27,912,2026-11-14T16:50:49Z
+2000196,Nicholas Hobbs,mcdowelljohn@example.com,Australia,Oceania,male,Medium,10,192.0,19.2,914,2026-11-14T16:50:49Z
+2000197,Alexander Diaz,brianbartlett@example.org,Japan,Asia,female,Low,8,135.0,16.88,912,2026-11-14T16:50:49Z
+2000198,Andrew Jackson,hreed@example.org,USA,North America,male,Medium,8,171.0,21.38,912,2026-11-14T16:50:49Z
+2000199,Briana Campbell,theodore94@example.com,Japan,Asia,male,Medium,11,159.0,14.45,913,2026-11-14T16:50:49Z
+2000200,Jessica Kelley,williamdavis@example.net,Australia,Oceania,male,Low,10,114.0,11.4,914,2026-11-14T16:50:49Z
+2000201,Mark Mata,ugonzalez@example.com,USA,North America,female,Medium,11,207.0,18.82,911,2026-11-14T16:50:49Z
+2000202,Joshua Davis,esnow@example.net,Australia,Oceania,male,High,12,387.0,32.25,912,2026-11-14T16:50:49Z
+2000203,Jenna Gilbert,cbates@example.com,USA,North America,male,High,16,315.0,19.69,912,2026-11-14T16:50:49Z
+2000204,Robert Massey,loriestrada@example.net,USA,North America,female,Low,6,90.0,15.0,912,2026-11-14T16:50:49Z
+2000205,Jeffery Green,donna29@example.org,Australia,Oceania,female,High,17,390.0,22.94,912,2026-11-14T16:50:49Z
+2000206,Charles Cook,thomasrachel@example.com,USA,North America,female,High,13,294.0,22.62,914,2026-11-14T16:50:49Z
+2000207,Betty Casey,victorparsons@example.org,Australia,Oceania,male,High,10,354.0,35.4,912,2026-11-14T16:50:49Z
+2000208,John Ponce,kgreen@example.com,USA,North America,female,Medium,14,246.0,17.57,911,2026-11-14T16:50:49Z
+2000209,Cameron Rice,emily18@example.com,USA,North America,female,High,12,297.0,24.75,911,2026-11-14T16:50:49Z
+2000210,Tom Lambert,robertfischer@example.org,Australia,Oceania,male,Medium,12,222.0,18.5,911,2026-11-14T16:50:49Z
+2000211,Tina Erickson,uedwards@example.org,Japan,Asia,male,Medium,9,180.0,20.0,914,2026-11-14T16:50:49Z
+2000212,Lawrence Turner,dhensley@example.com,USA,North America,male,Medium,11,198.0,18.0,912,2026-11-14T16:50:49Z
+2000213,Kelly Ball,evansmike@example.net,USA,North America,female,High,19,288.0,15.16,912,2026-11-14T16:50:49Z
+2000214,Benjamin Dorsey,sandrablevins@example.com,USA,North America,female,Medium,10,267.0,26.7,912,2026-11-14T16:50:49Z
+2000215,Nicole Zuniga,jessicalawrence@example.com,Japan,Asia,female,High,14,312.0,22.29,913,2026-11-14T16:50:49Z
+2000216,Rebecca Mitchell,jkrueger@example.org,Japan,Asia,female,Medium,14,213.0,15.21,911,2026-11-14T16:50:49Z
+2000217,Mia Reed,wmills@example.org,Australia,Oceania,female,Medium,10,174.0,17.4,911,2026-11-14T16:50:49Z
+2000218,Tiffany Garcia,adkinsfrederick@example.com,Japan,Asia,female,High,15,378.0,25.2,911,2026-11-14T16:50:49Z
+2000219,Joshua Griffin,samuelwilliams@example.org,Japan,Asia,female,Medium,10,243.0,24.3,911,2026-11-14T16:50:49Z
+2000220,Christine Rivera,lanemegan@example.org,Australia,Oceania,female,Low,10,129.0,12.9,911,2026-11-14T16:50:49Z
+2000221,Kaitlyn Martinez,cassandrashaw@example.org,USA,North America,male,Medium,10,183.0,18.3,912,2026-11-14T16:50:49Z
+2000222,Megan Ali,kristenthompson@example.com,USA,North America,female,Low,8,111.0,13.88,913,2026-11-14T16:50:49Z
+2000223,Arthur Mccann,cassidy80@example.net,Japan,Asia,male,Low,11,138.0,12.55,912,2026-11-14T16:50:49Z
+2000224,Mary Dalton,dcarter@example.net,Australia,Oceania,female,Low,12,144.0,12.0,912,2026-11-14T16:50:49Z
+2000225,Gary Lawrence,kylebecker@example.net,Australia,Oceania,male,Medium,11,213.0,19.36,915,2026-11-14T16:50:49Z
+2000226,Leslie Macdonald,wilsondevon@example.org,Australia,Oceania,female,Medium,8,210.0,26.25,914,2026-11-14T16:50:49Z
+2000227,Mary Zuniga,emartinez@example.net,Australia,Oceania,male,Medium,12,207.0,17.25,912,2026-11-14T16:50:49Z
+2000228,Nicole Johnson,lewischristopher@example.org,Australia,Oceania,female,Medium,14,210.0,15.0,911,2026-11-14T16:50:49Z
+2000229,Jennifer Holmes,charlescompton@example.com,USA,North America,male,High,16,450.0,28.13,911,2026-11-14T16:50:49Z
+2000230,Courtney Knight,parkjeanette@example.net,Japan,Asia,female,Medium,15,252.0,16.8,911,2026-11-14T16:50:49Z
+2000231,Melissa Lara,nicolepope@example.com,USA,North America,female,Medium,12,189.0,15.75,912,2026-11-14T16:50:49Z
+2000232,Antonio Zimmerman,hray@example.org,Japan,Asia,female,Medium,11,192.0,17.45,912,2026-11-14T16:50:49Z
+2000233,Michael Torres,ggriffin@example.org,USA,North America,male,Medium,11,255.0,23.18,911,2026-11-14T16:50:49Z
+2000234,Tracy Kaufman,parrishedwin@example.org,Australia,Oceania,male,Medium,12,183.0,15.25,912,2026-11-14T16:50:49Z
+2000235,Gina Johnson,loweashley@example.org,USA,North America,female,Low,5,96.0,19.2,912,2026-11-14T16:50:49Z
+2000236,Judith Chandler,juan75@example.net,Japan,Asia,male,Low,10,132.0,13.2,911,2026-11-14T16:50:49Z
+2000237,Leslie Bradley,foleyvincent@example.org,Japan,Asia,female,High,10,417.0,41.7,912,2026-11-14T16:50:49Z
+2000238,Charles Martinez,gmartin@example.net,Australia,Oceania,male,Medium,9,162.0,18.0,916,2026-11-14T16:50:49Z
+2000239,Jennifer Johnson,markowens@example.org,Australia,Oceania,male,Medium,17,231.0,13.59,912,2026-11-14T16:50:49Z
+2000240,Brent Herrera,peter90@example.org,Australia,Oceania,male,Medium,8,159.0,19.88,913,2026-11-14T16:50:49Z
+2000241,Chase Castillo,crystalmartinez@example.org,Japan,Asia,male,Medium,14,258.0,18.43,911,2026-11-14T16:50:49Z
+2000242,James Evans,cgarcia@example.com,Australia,Oceania,male,Low,11,147.0,13.36,911,2026-11-14T16:50:49Z
+2000243,Robert Mcgrath,grantrobert@example.net,Australia,Oceania,male,High,9,324.0,36.0,912,2026-11-14T16:50:49Z
+2000244,Tina Garza,cassandra78@example.net,Australia,Oceania,male,Low,7,90.0,12.86,911,2026-11-14T16:50:49Z
+2000245,Juan Lewis,davidcarr@example.com,USA,North America,male,Medium,8,168.0,21.0,914,2026-11-14T16:50:49Z
+2000246,Jennifer Alvarez,rushrachel@example.net,Japan,Asia,female,Medium,11,267.0,24.27,912,2026-11-14T16:50:49Z
+2000247,Jesse Hall,kstewart@example.org,USA,North America,male,High,16,300.0,18.75,913,2026-11-14T16:50:49Z
+2000248,Chad Mills,william54@example.net,Australia,Oceania,male,High,13,498.0,38.31,911,2026-11-14T16:50:49Z
+2000249,Crystal Donovan,johnfarmer@example.com,Australia,Oceania,female,High,13,363.0,27.92,913,2026-11-14T16:50:49Z
+2000250,Lisa Cox,taylorbrittany@example.com,Japan,Asia,female,Medium,10,237.0,23.7,911,2026-11-14T16:50:49Z
+2000251,Kirk James,julie08@example.net,Japan,Asia,male,Medium,11,267.0,24.27,912,2026-11-14T16:50:49Z
+2000252,Gregory Carter,hillkayla@example.net,Japan,Asia,male,Medium,10,192.0,19.2,911,2026-11-14T16:50:49Z
+2000253,Julie Boone,smallgregory@example.org,Japan,Asia,male,Medium,15,228.0,15.2,914,2026-11-14T16:50:49Z
+2000254,Tracy Farley,theodore30@example.org,USA,North America,male,Medium,10,234.0,23.4,913,2026-11-14T16:50:49Z
+2000255,Robert Mendez,christopher63@example.net,USA,North America,male,Medium,11,207.0,18.82,912,2026-11-14T16:50:49Z
+2000256,Janet Jones,debbiebell@example.net,Japan,Asia,male,Low,6,63.0,10.5,914,2026-11-14T16:50:49Z
+2000257,Gabriel Campbell,gutierrezhailey@example.net,Japan,Asia,male,Low,8,141.0,17.63,919,2026-11-14T16:50:49Z
+2000258,Charles Webster,raymond75@example.org,Australia,Oceania,male,Low,7,102.0,14.57,914,2026-11-14T16:50:49Z
+2000259,Kayla Barrett,brittanyramos@example.org,Japan,Asia,female,Low,6,120.0,20.0,914,2026-11-14T16:50:49Z
+2000260,Amanda Reed,scollier@example.org,Japan,Asia,female,Low,9,129.0,14.33,914,2026-11-14T16:50:49Z
+2000261,Steven Tanner,haileysanchez@example.net,Japan,Asia,female,Medium,10,192.0,19.2,913,2026-11-14T16:50:49Z
+2000262,Jennifer Forbes,belldonna@example.com,Australia,Oceania,male,High,16,363.0,22.69,912,2026-11-14T16:50:49Z
+2000263,Kenneth Berger,bdalton@example.net,Australia,Oceania,female,High,14,318.0,22.71,911,2026-11-14T16:50:49Z
+2000264,James Edwards,mary39@example.org,Japan,Asia,male,High,11,297.0,27.0,911,2026-11-14T16:50:49Z
+2000265,Ann Montgomery,michaelreese@example.org,Australia,Oceania,female,Medium,13,201.0,15.46,912,2026-11-14T16:50:49Z
+2000266,Heather Moore,mannmartin@example.com,Australia,Oceania,male,Medium,11,222.0,20.18,911,2026-11-14T16:50:49Z
+2000267,Joseph Graham,suzannereeves@example.org,Australia,Oceania,female,Low,7,114.0,16.29,912,2026-11-14T16:50:49Z
+2000268,Lisa Ramirez,kristi04@example.com,Japan,Asia,female,Medium,10,228.0,22.8,913,2026-11-14T16:50:49Z
+2000269,Sierra Jones,zgomez@example.net,USA,North America,female,Medium,11,186.0,16.91,914,2026-11-14T16:50:49Z
+2000270,Tyler Jackson,stephanieshaw@example.net,Australia,Oceania,male,Medium,9,276.0,30.67,915,2026-11-14T16:50:49Z
+2000271,Rachael Lowe,jonathan06@example.net,Australia,Oceania,male,Medium,9,162.0,18.0,913,2026-11-14T16:50:49Z
+2000272,Shelly Rogers,lnorris@example.com,Japan,Asia,male,Medium,8,207.0,25.88,912,2026-11-14T16:50:49Z
+2000273,Heather Greene,emilymartin@example.com,Japan,Asia,male,Medium,11,234.0,21.27,916,2026-11-14T16:50:49Z
+2000274,Paul Hartman,chavezronald@example.net,USA,North America,male,Medium,9,171.0,19.0,911,2026-11-14T16:50:49Z
+2000275,Katherine Anderson,wilsoncrystal@example.com,USA,North America,female,High,19,465.0,24.47,912,2026-11-14T16:50:49Z
+2000276,Ryan Zamora,xlong@example.org,Japan,Asia,female,Medium,12,165.0,13.75,912,2026-11-14T16:50:49Z
+2000277,Kerri Davis,denisewilliams@example.com,USA,North America,female,Low,12,150.0,12.5,912,2026-11-14T16:50:49Z
+2000278,Jessica Pierce,smithbrian@example.org,Australia,Oceania,male,Low,7,123.0,17.57,911,2026-11-14T16:50:49Z
+2000279,Rebecca Brown,joanochoa@example.net,USA,North America,female,Low,10,120.0,12.0,911,2026-11-14T16:50:49Z
+2000280,Adam Gonzalez,tracifischer@example.com,Japan,Asia,female,Low,11,144.0,13.09,911,2026-11-14T16:50:49Z
+2000281,Elizabeth Woods,mjoseph@example.org,USA,North America,male,Low,4,48.0,12.0,912,2026-11-14T16:50:49Z
+2000282,Walter Young,barbara61@example.net,Australia,Oceania,female,High,15,312.0,20.8,911,2026-11-14T16:50:49Z
+2000283,Jessica Mcmahon,enguyen@example.net,USA,North America,male,Low,8,132.0,16.5,911,2026-11-14T16:50:49Z
+2000284,Derrick Davenport,asmith@example.com,Australia,Oceania,male,Low,10,153.0,15.3,911,2026-11-14T16:50:49Z
+2000285,Denise Ramos,stephenbradley@example.org,Japan,Asia,female,Medium,10,267.0,26.7,914,2026-11-14T16:50:49Z
+2000286,Amanda Soto,santoslaura@example.org,USA,North America,female,Low,7,114.0,16.29,911,2026-11-14T16:50:49Z
+2000287,Matthew King,amy30@example.net,USA,North America,female,Medium,12,183.0,15.25,911,2026-11-14T16:50:49Z
+2000288,Matthew Williams,hdiaz@example.org,Australia,Oceania,female,High,18,288.0,16.0,915,2026-11-14T16:50:49Z
+2000289,Jennifer Ramos,fhunt@example.org,USA,North America,male,High,7,288.0,41.14,912,2026-11-14T16:50:49Z
+2000290,William Ruiz,william58@example.org,Japan,Asia,male,Medium,14,240.0,17.14,911,2026-11-14T16:50:49Z
+2000291,Dustin Evans,lisasimpson@example.net,USA,North America,female,High,14,294.0,21.0,914,2026-11-14T16:50:49Z
+2000292,Nathaniel Sharp,barrkiara@example.com,USA,North America,female,Medium,9,156.0,17.33,911,2026-11-14T16:50:49Z
+2000293,Jessica Beck,aevans@example.com,Japan,Asia,female,Medium,12,240.0,20.0,914,2026-11-14T16:50:49Z
+2000294,Richard Martinez,cooksara@example.org,Australia,Oceania,male,Medium,10,243.0,24.3,912,2026-11-14T16:50:49Z
+2000295,Carl Cook,tom16@example.com,USA,North America,male,High,14,297.0,21.21,912,2026-11-14T16:50:49Z
+2000296,Thomas Miller,ericbarton@example.com,USA,North America,male,Medium,15,273.0,18.2,912,2026-11-14T16:50:49Z
+2000297,Nathan Weaver,jeffrey77@example.net,USA,North America,male,Medium,10,243.0,24.3,911,2026-11-14T16:50:49Z
+2000298,Jessica Golden,zkirk@example.net,USA,North America,female,High,12,297.0,24.75,911,2026-11-14T16:50:49Z
+2000299,Gloria Moore,mholland@example.org,Australia,Oceania,female,Low,5,87.0,17.4,915,2026-11-14T16:50:49Z

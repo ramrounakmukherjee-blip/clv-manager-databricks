@@ -2,3 +2,5 @@ command: ['streamlit', 'run', 'app.py']
 env:
   - name: 'SQL_WAREHOUSE_HTTP_PATH'
     value: '/sql/1.0/warehouses/dcc76b7ee7627b72'
+  - name: 'LAKEBASE_ENDPOINT'
+    valueFrom: postgres

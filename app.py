@@ -41,9 +41,10 @@ JOIN samples.bakehouse.sales_transactions t
 GROUP BY 1, 2, 3, 4, 5, 6
 """
 
-# The Lakebase Postgres endpoint backing this app (fallback if the
-# injected ENDPOINT_NAME env var is absent).
-ENDPOINT_NAME = os.environ.get(
+# The Lakebase Postgres endpoint backing this app. LAKEBASE_ENDPOINT is
+# injected from the app's `postgres` resource (declared in app.yaml);
+# older env name and a literal fallback kept for robustness.
+ENDPOINT_NAME = os.environ.get("LAKEBASE_ENDPOINT") or os.environ.get(
     "ENDPOINT_NAME", "projects/clv-app-db/branches/production/endpoints/primary"
 )
 
@@ -94,10 +95,29 @@ class OAuthConnection(psycopg.Connection):
         return super().connect(conninfo, **kwargs)
 
 
+def _lakebase_host() -> str:
+    """Endpoint host, preferring the injected PGHOST."""
+    host = os.environ.get("PGHOST")
+    if not host:
+        host = (
+            _get_workspace_client()
+            .postgres.get_endpoint(ENDPOINT_NAME)
+            .status.hosts.host
+        )
+    return host
+
+
 def _pg_conninfo() -> str:
+    """Connection info with fallbacks when PG* env vars aren't injected."""
+    user = (
+        os.environ.get("PGUSER")
+        or os.environ.get("DATABRICKS_CLIENT_ID")
+        or _get_workspace_client().current_user.me().user_name
+    )
     return (
-        f"dbname={os.environ['PGDATABASE']} user={os.environ['PGUSER']} "
-        f"host={os.environ['PGHOST']} port={os.environ.get('PGPORT', '5432')} "
+        f"dbname={os.environ.get('PGDATABASE', 'databricks_postgres')} "
+        f"user={user} host={_lakebase_host()} "
+        f"port={os.environ.get('PGPORT', '5432')} "
         f"sslmode={os.environ.get('PGSSLMODE', 'require')}"
     )
 

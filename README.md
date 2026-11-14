@@ -28,7 +28,7 @@ Per-customer CLV aggregation from the shared Databricks sample data in `samples.
 ## Environment variables
 
 * `SQL_WAREHOUSE_HTTP_PATH` - set in `app.yaml` (the app's SQL warehouse).
-* `ENDPOINT_NAME` - Lakebase Postgres endpoint (injected; falls back to `projects/clv-app-db/branches/production/endpoints/primary`).
+* `LAKEBASE_ENDPOINT` - Lakebase Postgres endpoint, declared in `app.yaml` via `valueFrom: postgres`; `app.py` also honors `ENDPOINT_NAME` and falls back to `projects/clv-app-db/branches/production/endpoints/primary`.
 * `PGDATABASE`, `PGUSER`, `PGHOST`, `PGPORT`, `PGSSLMODE` - injected Lakebase Postgres connection settings.
 
 ## Repository contents
@@ -38,6 +38,7 @@ Everything built in the Databricks workspace for the CLV Manager project:
 * `app.py`, `app.yaml`, `requirements.txt` - the Databricks App source.
 * `notebooks/Sample Table Generation` - notebook that creates the `workspace.default.sample_customers` Unity Catalog table and generates the 50 sample customer records (SQL DDL + PySpark).
 * `data/sample_customers.csv` - export of all 50 generated records from that table (snapshot taken 2026-11-14).
+* `data/lakebase_customer_clv.csv` - export of the 300 customer CLV records mirrored into the Lakebase `clv-app-db` database table `clv.customer_clv` (snapshot taken 2026-11-14).
 * `dashboards/sample_customers_overview.json` - serialized config of the "Sample Customers Overview" AI/BI dashboard (UUID `01f1e00255a51ab68b084f6c014c9a40`), stored as plain JSON. To restore it in a Databricks workspace, rename to `.lvdash.json` and import.
 
 ## Running locally

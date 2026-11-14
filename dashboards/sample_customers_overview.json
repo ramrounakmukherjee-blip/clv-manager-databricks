@@ -1,0 +1,168 @@
+{
+  "_comment": "Serialized config of the Databricks AI/BI dashboard 'Sample Customers Overview' (UUID 01f1e00255a51ab68b084f6c014c9a40). The original workspace file uses the .lvdash.json extension; this copy is stored as plain JSON so it can live in Git.",
+  "datasets": [
+    {
+      "name": "sample_customers",
+      "displayName": "Sample Customers",
+      "queryLines": [
+        "SELECT\n",
+        "  record_id,\n",
+        "  first_name,\n",
+        "  last_name,\n",
+        "  email,\n",
+        "  city,\n",
+        "  status,\n",
+        "  signup_date,\n",
+        "  lifetime_value\n",
+        "FROM\n",
+        "  workspace.default.sample_customers"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "name": "fdbae3b8",
+      "displayName": "Page 1",
+      "layout": [
+        {
+          "widget": {
+            "name": "status_breakdown",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "sample_customers",
+                  "fields": [
+                    {"name": "count(record_id)", "expression": "COUNT(`record_id`)"},
+                    {"name": "status", "expression": "`status`"}
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {"showTitle": true, "title": "Status Breakdown"},
+              "version": 3,
+              "widgetType": "pie",
+              "encodings": {
+                "angle": {"fieldName": "count(record_id)", "scale": {"type": "quantitative"}, "displayName": "record_id"},
+                "color": {"fieldName": "status", "displayName": "status", "scale": {"type": "categorical"}}
+              },
+              "data": {"queryName": "main_query"}
+            }
+          },
+          "position": {"x": 4, "y": 7, "width": 4, "height": 5}
+        },
+        {
+          "widget": {
+            "name": "customers_table",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "sample_customers",
+                  "fields": [
+                    {"name": "record_id", "expression": "`record_id`"},
+                    {"name": "first_name", "expression": "`first_name`"},
+                    {"name": "last_name", "expression": "`last_name`"},
+                    {"name": "email", "expression": "`email`"},
+                    {"name": "city", "expression": "`city`"},
+                    {"name": "status", "expression": "`status`"},
+                    {"name": "signup_date", "expression": "`signup_date`"},
+                    {"name": "lifetime_value", "expression": "`lifetime_value`"}
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "frame": {"showTitle": true, "title": "All Customer Records (50)"},
+              "version": 2,
+              "widgetType": "table",
+              "encodings": {
+                "columns": [
+                  {"fieldName": "record_id"},
+                  {"fieldName": "first_name"},
+                  {"fieldName": "last_name"},
+                  {"fieldName": "email"},
+                  {"fieldName": "city"},
+                  {"fieldName": "status"},
+                  {"fieldName": "signup_date"},
+                  {"fieldName": "lifetime_value"}
+                ]
+              },
+              "data": {"queryName": "main_query"}
+            }
+          },
+          "position": {"x": 0, "y": 0, "width": 12, "height": 7}
+        },
+        {
+          "widget": {
+            "name": "customers_by_city",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "sample_customers",
+                  "fields": [
+                    {"name": "city", "expression": "`city`"},
+                    {"name": "count(record_id)", "expression": "COUNT(`record_id`)"}
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {"showTitle": true, "title": "Record Count by City"},
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {"fieldName": "city", "displayName": "city", "scale": {"type": "categorical"}},
+                "y": {"fieldName": "count(record_id)", "displayName": "record_id", "scale": {"type": "quantitative"}},
+                "color": {"fieldName": "city", "displayName": "city", "scale": {"type": "categorical"}}
+              },
+              "data": {"queryName": "main_query"}
+            }
+          },
+          "position": {"x": 0, "y": 7, "width": 4, "height": 5}
+        },
+        {
+          "widget": {
+            "name": "lifetime_value_by_city",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "sample_customers",
+                  "fields": [
+                    {"name": "city", "expression": "`city`"},
+                    {"name": "sum(lifetime_value)", "expression": "SUM(`lifetime_value`)"}
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "frame": {"showTitle": true, "title": "Lifetime Value by City"},
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {"fieldName": "city", "displayName": "city", "scale": {"type": "categorical"}},
+                "y": {"fieldName": "sum(lifetime_value)", "displayName": "lifetime_value", "scale": {"type": "quantitative"}},
+                "color": {"fieldName": "city", "displayName": "city", "scale": {"type": "categorical"}}
+              },
+              "data": {"queryName": "main_query"}
+            }
+          },
+          "position": {"x": 8, "y": 7, "width": 4, "height": 5}
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {"widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"},
+    "applyModeEnabled": false
+  }
+}

@@ -4,9 +4,9 @@
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Views
 
-All screenshots live in [`screenshots/`](screenshots).
+All the views below are captured in [`screenshots/`](screenshots).
 
 ### 1. App overview — KPIs, filters, and lifetime value by continent
 
@@ -15,7 +15,7 @@ All screenshots live in [`screenshots/`](screenshots).
 What you're seeing:
 
 * **Header** — the app title *Customer Lifetime Value Manager* with a short tagline naming the data source: `samples.bakehouse` (customers + transactions).
-* **Red banner button** — *Open connected dashboard: Sample Customers Overview*. One click opens the linked AI/BI dashboard (see screenshot 4) in a new tab.
+* **Red banner button** — *Open connected dashboard: Sample Customers Overview*. One click opens the linked AI/BI dashboard (see view 4) in a new tab.
 * **KPI cards** across the top of the page:
   * **Customers** — `300` customers in the current (unfiltered) view.
   * **Total lifetime value** — `$66,471` summed across all customers.
@@ -144,7 +144,7 @@ Per-customer CLV aggregation from the shared Databricks sample data in `samples.
 ├── dashboards/sample_customers_overview.json # AI/BI dashboard config (rename to .lvdash.json to import)
 ├── data/sample_customers.csv                 # Export of the 50 sample records
 ├── data/lakebase_customer_clv.csv            # Export of the 300 mirrored CLV records
-└── screenshots/                              # App & workspace screenshots used in this README
+└── screenshots/                              # App & workspace views used in this README
 ```
 
 ## Running locally

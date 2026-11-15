@@ -104,7 +104,6 @@ clv.customer_clv             "Sample Customers Overview"
 | --- | --- |
 | App name | clv-manager |
 | App ID | 968d3779-6161-405e-b5d0-46ddebf185a9 |
-| App URL | https://clv-manager-7474658865741961.aws.databricksapps.com |
 | Compute size | MEDIUM |
 | Command | streamlit run app.py |
 | API scopes | sql |
@@ -144,6 +143,7 @@ Per-customer CLV aggregation from the shared Databricks sample data in `samples.
 ├── dashboards/sample_customers_overview.json # AI/BI dashboard config (rename to .lvdash.json to import)
 ├── data/sample_customers.csv                 # Export of the 50 sample records
 ├── data/lakebase_customer_clv.csv            # Export of the 300 mirrored CLV records
+├── learnings/                                 # Databricks learning notes (intro to the platform)
 └── screenshots/                              # App & workspace views used in this README
 ```
 

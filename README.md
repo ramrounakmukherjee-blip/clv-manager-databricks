@@ -21,7 +21,7 @@ What you're seeing:
   * **Total lifetime value** — `$66,471` summed across all customers.
   * **Average lifetime value** — `$222` per customer.
   * **Avg. orders per customer** — `11.1` transactions each.
-* **"Lifetime value by continent" bar chart** — total LTV for Asia (~$21K), and Oceania (~$24K), showing Oceania as the top-contributing continent in the sample data.
+* **"Lifetime value by continent" bar chart** — total LTV for Asia (~$21K), North America (~$21.5K), and Oceania (~$24K), showing Oceania as the top-contributing continent in the sample data.
 * **Filters sidebar (left)** — every widget drives the whole page reactively:
   * **Continent**, **Country**, **Gender**, **CLV tier** dropdowns.
   * **Lifetime value range** dual slider (here `42`–`672`, the observed min/max).
